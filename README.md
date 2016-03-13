@@ -11,3 +11,7 @@ ruby 2.2.2
 
 
 It is used to process the spreadsheet(.xls) data and import them into a table in the mysql database
+
+The spreadsheet data and the result: http://pan.baidu.com/s/1hroOCXu
+
+Maybe it is necessary to modify the TransferToDB#initialize function for its static path
